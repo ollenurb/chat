@@ -1,7 +1,7 @@
 # Chat Server
 
-A simple non-blocking chat server written using
-[mio](https://github.com/tokio-rs/mio) that can handle many concurrent
+A simple non-blocking chat server that uses
+[mio](https://github.com/tokio-rs/mio) to handle many concurrent
 connections while running on a single thread.
 
 ## Running
